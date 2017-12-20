@@ -8,6 +8,7 @@
       "email": "espinomlg@gmail.com"
     }
   ],
+  "minimum-stability": "dev",
   "license": "MIT",
   "autoload": {
     "psr-4": {
