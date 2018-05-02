@@ -1,6 +1,6 @@
 <?php
 
-namespace ApiBundle\Services;
+namespace Cashuba\GuzzleClient;
 
 use GuzzleHttp\Client;
 
