@@ -11,8 +11,9 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Cashuba\\GuzzleClient\\": "src"
-    }
+      "Cashuba\\GuzzleClient\\": "src/Cashuba/GuzzleClient"
+    },
+    "classmap" : ["src/"]
   },
   "require": {
     "guzzlehttp/guzzle": "~6.0"
